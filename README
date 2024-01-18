@@ -1,0 +1,1 @@
+Using the gymnasium package, I've created an AI that uses Reinforcement Learning to pick the most optimal action at each position. I've enabled the is_slippery option when making the environment which makes the ice more realistic and way less predictable.
